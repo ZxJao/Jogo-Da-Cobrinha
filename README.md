@@ -1,2 +1,26 @@
-# Jogo-Da-Cobrinha
-Jogo da cobrinha (Snake Game) desenvolvido com HTML, CSS e JavaScript, onde o jogador controla a cobra para comer frutas, crescer e evitar colidir com as bordas ou com o próprio corpo, praticando lógica de programação e manipulação do canvas/DOM.
+# 🐍 Jogo da Cobrinha (Snake Game)
+
+Projeto do clássico **jogo da cobrinha** desenvolvido com **HTML, CSS e JavaScript**.
+
+## 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+## 📁 Como jogar
+1. Clone ou baixe o repositório  
+2. Abra o arquivo `index.html` no navegador  
+3. Use as setas do teclado para controlar a cobra  
+
+## 🎯 Objetivo
+Comer o máximo de frutas possível sem bater nas paredes ou no próprio corpo, aumentando a pontuação a cada item coletado.
+
+## ✨ Funcionalidades
+- Movimento da cobrinha  
+- Sistema de pontuação  
+- Detecção de colisão  
+- Reinício do jogo  
+
+## 👨‍💻 Autor
+João Pedro  
+GitHub: https://github.com/ZxJao
